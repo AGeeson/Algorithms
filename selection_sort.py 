@@ -1,0 +1,5 @@
+# 
+
+arr=[64,33,22,1,33]
+
+def selection_sort(
