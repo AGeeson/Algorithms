@@ -1,3 +1,3 @@
 # Algorithms
 
-A repository to store practice and practical algorithms.
+A repository to store algorithms for practice and practical applications.
